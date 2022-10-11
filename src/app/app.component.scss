@@ -1,0 +1,52 @@
+.content-body
+{
+    background-color: rgb(41, 40, 40);
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+
+}
+.audioAp
+{
+    color:rgb(184, 208, 65);
+     font-weight: 600;
+     text-align: center;
+     font-size: 49px;
+    
+}
+.listItem
+{
+  display: flex;
+  flex-direction: column;
+    text-align: center;
+    font-size: 49px;
+    list-style: none;
+    margin-left:40%;
+    margin-top:30px;
+    
+}
+.playButton
+{
+
+height:80px;
+width: 140px;
+background-color: aqua;
+
+color:rgb(40, 126, 48)
+
+}
+.pButton
+{
+    height:80px;
+width: 140px;
+background-color: aqua;
+
+color:rgb(40, 126, 48)
+
+
+}
+.currentTime
+{
+    text-align:center ;
+    justify-content: center;
+}
